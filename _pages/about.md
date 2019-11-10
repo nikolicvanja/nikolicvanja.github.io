@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+
 **Research Interests:**
 ======
-Applied and numerical analysis of nonlinear evolution PDEs
+* Applied and numerical analysis of nonlinear evolution PDEs
+* Nonlinear acoustics
 
-Nonlinear acoustics
 	
 **Contact:**
 ======
@@ -22,4 +23,4 @@ Nonlinear acoustics
   Heyendaalseweg 135
   6525 AJ Nijmegen, The Netherlands
 * Office: HG03._
-* E-mail: vanja.nikolic[at]ru.nl
+* E-mail: vanja.nikolic [at] ru.nl
