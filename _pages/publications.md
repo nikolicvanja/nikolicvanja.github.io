@@ -18,7 +18,7 @@ Refereed journal papers
   [Preprint](https://arxiv.org/pdf/1811.12790.pdf)
    7. Markus Muhr, Vanja Nikoli&#263;, Barbara Wohlmuth, and Linus Wunderlich: [Isogeometric shape optimization for nonlinear ultrasound focusing](https://www.aimsciences.org/article/doi/10.3934/eect.2019010), Evolution Equations & Control Theory, 8(1), 163-202, 2019.\
    [Preprint](https://arxiv.org/pdf/1712.05228.pdf)
-   6. Barbara Kaltenbacher and Vanja Nikoli&#263;: [Vanishing relaxation time limit of the Jordan-Moore-Gibson-Thompson wave equation with Neumann and absorbing boundary conditions], Pure and Applied Functional Analysis, to appear.\
+   6. Barbara Kaltenbacher and Vanja Nikoli&#263;: [Vanishing relaxation time limit of the Jordan-Moore-Gibson-Thompson wave equation with Neumann and absorbing boundary conditions](http://www.ybook.co.jp/pafa.html), Pure and Applied Functional Analysis, to appear.\
    [Preprint](https://arxiv.org/pdf/1902.10606.pdf)
    5. Marvin Fritz, Vanja Nikoli&#263;, and Barbara Wohlmuth: [Well-posedness and numerical treatment of the Blackstock equation in nonlinear acoustics](https://www.worldscientific.com/doi/abs/10.1142/S0218202518500550), Mathematical Models and Methods in Applied Sciences M³AS, 28(13), 2557-2597, 2018.\  
    [Preprint](https://arxiv.org/pdf/1806.05227.pdf)
@@ -28,5 +28,5 @@ Refereed journal papers
    [Preprint](https://arxiv.org/pdf/1506.02125.pdf)
    2. Vanja Nikoli&#263;: [Local existence results for the Westervelt equation with nonlinear damping and Neumann as well as absorbing boundary conditions](http://www.sciencedirect.com/science/article/pii/S0022247X15001973), Journal of Mathematical Analysis and Applications, 427(2), 1131-1175, 2015.\
    [Preprint](https://arxiv.org/pdf/1408.2160.pdf)
-   1. Barbara Kaltenbacher, Vanja Nikoli&#263;, and Mechthild Thalhammer: [Efficient time integration methods based on operator splitting and application to the Westervelt equation](http://imajna.oxfordjournals.org/content/early/2014/06/04/imanum.dru029), IMA Journal of Numerical Analysis, 35(3), 1092–1124, 2015.\ 
+   1. Barbara Kaltenbacher, Vanja Nikoli&#263;, and Mechthild Thalhammer: [Efficient time integration methods based on operator splitting and application to the Westervelt equation](http://imajna.oxfordjournals.org/content/early/2014/06/04/imanum.dru029), IMA Journal of Numerical Analysis, 35(3), 1092–1124, 2015.<\br>
    [Preprint](https://arxiv.org/pdf/1311.1224.pdf)
