@@ -23,5 +23,5 @@ redirect_from:
   Radboud University<br/>
   Heyendaalseweg 135<br/>
   6525 AJ Nijmegen, The Netherlands
-* Office: HG03
+* Office: HG03.732
 * E-mail: vanja.nikolic [at] ru.nl
