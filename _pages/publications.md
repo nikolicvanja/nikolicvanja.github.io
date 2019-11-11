@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-  1. Marvin Fritz, Ernesto A.B.F. Lima, Vanja Nikoli&#263;, J. Tinsley Oden, Barbara Wohlmuth: [Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation](https://www.worldscientific.com/doi/abs/10.1142/S0218202519500519), Mathematical Models and Methods in Applied Sciences M³AS, 2019.<br/>
-[<font color='49524F'>Preprint</font>](https://arxiv.org/abs/1906.07788)
+  <sub>1. Marvin Fritz, Ernesto A.B.F. Lima, Vanja Nikoli&#263;, J. Tinsley Oden, Barbara Wohlmuth: [Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation](https://www.worldscientific.com/doi/abs/10.1142/S0218202519500519), Mathematical Models and Methods in Applied Sciences M³AS, 2019.<br/>
+[<font color='49524F'>Preprint</font>](https://arxiv.org/abs/1906.07788) 
    10. Vanja Nikoli&#263; and Barbara Wohlmuth: [A priori error estimates for the finite element approximation of Westervelt's quasilinear acoustic wave equation](https://epubs.siam.org/doi/abs/10.1137/19M1240873?mobileUi=0), SIAM Journal on Numerical Analysis, 57(4), 1897–1918, 2019.<br/>
  [<font color='49524F'>Preprint</font>](https://arxiv.org/abs/1901.08510)
    9.  Barbara Kaltenbacher and Vanja Nikoli&#263;: [On the Jordan-Moore-Gibson-Thompson equation: well-posedness with quadratic gradient nonlinearity and singular limit for vanishing relaxation time](https://www.worldscientific.com/doi/abs/10.1142/S0218202519500532), Mathematical Models and Methods in Applied Sciences M³AS, 2019.<br/>
@@ -26,4 +26,4 @@ author_profile: true
    2. Vanja Nikoli&#263;: [Local existence results for the Westervelt equation with nonlinear damping and Neumann as well as absorbing boundary conditions](http://www.sciencedirect.com/science/article/pii/S0022247X15001973), Journal of Mathematical Analysis and Applications, 427(2), 1131-1175, 2015.<br/>
    [<font color='49524F'>Preprint</font>](https://arxiv.org/pdf/1408.2160.pdf)
    1. Barbara Kaltenbacher, Vanja Nikoli&#263;, and Mechthild Thalhammer: [Efficient time integration methods based on operator splitting and application to the Westervelt equation](http://imajna.oxfordjournals.org/content/early/2014/06/04/imanum.dru029), IMA Journal of Numerical Analysis, 35(3), 1092–1124, 2015.<br/>
-   [<font color='49524F'>Preprint</font>](https://arxiv.org/pdf/1311.1224.pdf)
+   [<font color='49524F'>Preprint</font>](https://arxiv.org/pdf/1311.1224.pdf)</sub>
