@@ -12,7 +12,8 @@ redirect_from:
 **Research Interests**
 ======
 * Applied and numerical analysis of nonlinear evolution PDEs
-* Nonlinear acoustics
+* Mathematical nonlinear acoustics
+* Shape optimization
 
 
 <br/>
