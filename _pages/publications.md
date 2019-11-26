@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  1. M. Fritz, E. A.B.F. Lima, V. Nikoli&#263;, J. T. Oden, B. Wohlmuth: ![Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation](https://www.worldscientific.com/doi/abs/10.1142/S0218202519500519), Math. Models Methods Appl. Sci. M³AS, 2019.<br/>
+  1. M. Fritz, E. A.B.F. Lima, V. Nikoli&#263;, J. T. Oden, B. Wohlmuth: [Local and nonlocal phase-field models of tumor growth and invasion due to ECM degradation](https://www.worldscientific.com/doi/abs/10.1142/S0218202519500519), Math. Models Methods Appl. Sci. M³AS, 2019.<br/>
 [<font color='49524F'>Preprint</font>](https://arxiv.org/abs/1906.07788) 
    10. V. Nikoli&#263; and B. Wohlmuth: [A priori error estimates for the finite element approximation of Westervelt's quasilinear acoustic wave equation](https://epubs.siam.org/doi/abs/10.1137/19M1240873?mobileUi=0), SIAM J. Numer. Anal, 57(4), 1897–1918, 2019.<br/>
  [<font color='49524F'>Preprint</font>](https://arxiv.org/abs/1901.08510)
