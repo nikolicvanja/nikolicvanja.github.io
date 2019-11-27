@@ -20,7 +20,7 @@ redirect_from:
 	
 **Contact**
 ======
-* Department of Mathematics<br/>	
+* IMAPP – Department of Mathematics<br/>	
   Radboud University<br/>
   Heyendaalseweg 135<br/>
   6525 AJ Nijmegen, The Netherlands
