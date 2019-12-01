@@ -26,4 +26,4 @@ redirect_from:
   6525 AJ Nijmegen, The Netherlands
 * Office: HG03.732
 * Phone: +31 24 3652978 
-* E-mail: v.nikolic[at]math.ru.nl
+* E-mail: v.nikolic [at] math.ru.nl
