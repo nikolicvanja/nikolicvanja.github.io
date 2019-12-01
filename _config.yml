@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vanja Nikolić"
+title                    : " "
 title_separator          : "-"
 name                     : &name "Vanja Nikolić"
-description              : &description "Assistant Professor (TT) at Radboud University"
+description              : &description " "
 url                      : https://vanjanikolic.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikolicvanja/nikolicvanja"
