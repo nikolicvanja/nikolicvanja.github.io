@@ -25,4 +25,5 @@ redirect_from:
   Heyendaalseweg 135<br/>
   6525 AJ Nijmegen, The Netherlands
 * Office: HG03.732
-* E-mail: vanja.nikolic [at] ru.nl
+* Phone: +31 24 3652978 
+* E-mail: v.nikolic[at]math.ru.nl
