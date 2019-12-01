@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "v.nikolic@math.ru.nl"
   researchgate     : "https://www.researchgate.net/profile/Vanja_Nikolic2" 
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  arxiv            : "https://arxiv.org/search/math?searchtype=author&query=Nikoli%C4%87%2C+V" 
 
 
 # Reading Files
