@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=73kZ9csAAAAJ&hl=nl&oi=ao"
-  email            : 
+  email            : "vanja.nikolic@ru.nl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
