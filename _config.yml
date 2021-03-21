@@ -90,14 +90,11 @@ author:
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:vanja.nikolic@ru.nl"
     - label: "Research Gate"
-      icon: "fas fa-researchgate"
+      icon: "fa-researchgate"
       url: "https://www.researchgate.net/profile/Vanja_Nikolic2"
     - label: "Google Scholar"
-      icon: "fab fa-google-scholar-square"
+      icon: "fa-google-scholar-square"
       url: ""https://scholar.google.com/citations?user=73kZ9csAAAAJ&hl=nl&oi=ao""
-    - label: "Arxiv"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://arxiv.org/search/math?searchtype=author&query=Nikoli%C4%87%2C+V"
       
 # Reading Files
 include:
