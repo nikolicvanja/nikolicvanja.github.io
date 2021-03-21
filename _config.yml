@@ -86,7 +86,7 @@ author:
   location         : "Nijmegen, The Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=73kZ9csAAAAJ&hl=nl&oi=ao"
   email            : "v.nikolic@math.ru.nl"
   researchgate     : "https://www.researchgate.net/profile/Vanja_Nikolic2" 
   uri              :
