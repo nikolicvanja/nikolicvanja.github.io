@@ -187,13 +187,19 @@ body:hover .visually-hidden button {
   }
    
   .fa-map-marker {
-    color: red;
+    color: blue;
   }
   
    .fa-graduation-cap {
      color: blue;
   } 
   
+    
+  .fa-researchgate {
+    color: orange;
+  }
+  
+   
    .fa-behance,
    .fa-behance-square {
      color: $behance-color;
@@ -253,11 +259,7 @@ body:hover .visually-hidden button {
   .fa-youtube-play {
     color: $youtube-color;
   }
- 
-  .fa-researchgate {
-    color: orange;
-  }
-  
+
   .fa-researchgate-envelope {
     color: green;
   }
