@@ -185,7 +185,7 @@
   content: "\e853";
 }
 .ai-researchgate:before {
-  content: "\e854";
+   content: "#00d09d";
 }
 .ai-researchgate-square:before {
   content: "\e855";
