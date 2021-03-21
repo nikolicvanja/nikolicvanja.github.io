@@ -91,7 +91,9 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Vanja_Nikolic2" 
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square" {
+    color: #ff4500;
+  }
       url: "mailto:vanja.nikolic@ru.nl"
 
 
