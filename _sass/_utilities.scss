@@ -185,10 +185,18 @@ body:hover .visually-hidden button {
   .fa {
     color: green;
   }
-
-  .fa-behance,
-  .fa-behance-square {
-    color: $behance-color;
+   
+  .fa-map-marker {
+    color: red;
+  }
+  
+   .fa-graduation-cap {
+     color: blue;
+  } 
+  
+   .fa-behance,
+   .fa-behance-square {
+     color: $behance-color;
   }
    
   .fa-github,
@@ -247,7 +255,7 @@ body:hover .visually-hidden button {
   }
  
   .fa-researchgate {
-    color: green;
+    color: orange;
   }
   
   .fa-researchgate-envelope {
